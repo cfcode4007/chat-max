@@ -1,13 +1,13 @@
-# File:        chatmax-v0-4-4.py
-# Author:      Colin Fajardo
-# Version:     0.4.4 (2025-10-30, gave error message functionality when messages time out instead of program 'hanging')
+# © 2025 Colin Bond
+# All rights reserved.
+
+# Version:     0.4.5 (2025-12-15, explicit copyright line added)
 #
 # Description: A simple chat interface for configuring and interacting with
 #              personalized, learning GPT models.
 
 
 # Imports
-
 # GUI
 import tkinter as tk
 from tkinter import scrolledtext, filedialog, messagebox
